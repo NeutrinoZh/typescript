@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+        "target": "ES2015",
+        "removeComments": true,
+        "outDir": "js",
+        "noEmitOnError": true,
+    },
+    "include": [
+        "ts/*.ts"
+    ],
+    "exclude": [
+        "node_modules"
+    ]
+}
